@@ -4,6 +4,10 @@
 
 ![BLARE](Images/2.png)
 
+![BLARE](Images/3.png)
+
+![BLARE](Images/4.png)
+
 this is a digital alarm clock 
 
 This is my second hardware project 
