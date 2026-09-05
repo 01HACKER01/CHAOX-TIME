@@ -1,8 +1,8 @@
 # CHAOX-TIME
 
-![BLARE](images/1.jpg)
+![BLARE](Images/1.png)
 
-![BLARE](images/2.jpg)
+![BLARE](Images/2.png)
 
 this is a digital alarm clock 
 
