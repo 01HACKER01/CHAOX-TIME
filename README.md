@@ -5,39 +5,24 @@ This is my second hardware project
 I wanted to build it all by myself alone but i dont know how to code so i used AI to make the code 
 for now i have used but i will learn code asap and then make it by myself 
 
-#BOM
+## BOM
 
-seeed XIAO esp32-c3 x1
-
-2.8" ILI9341 SPI TFT x1
-
-MCP23017-E/SP DIP-28 x1
-
-MAX98357A I^2S amplifier breakout x1
-
-8ohm 3W speaker x1 //for next update
-
-3.3V piezo buzzer x1
-
-MX/Cherry-MX Compatible switches x12
-
-1N4148 DO-35 diodes x12
-
-4.7kohm 1/4W THT capacitor x5
-
-100nF THT capacitors x5
-
-10uF electrolytic THT capacitor x1
-
-1x40 2.54mm male header x2
-
-M3 heat-set inserts x8
-
-M3x8 screws x4
-
-M3x16 screws x4
-
-sd card module x1  //for next update
-
-
-total funding i need is ~ $30
+| Part | Quantity | Notes |
+|---|---:|---|
+| Seeed XIAO ESP32-C3 | 1 | Main MCU |
+| 2.8" ILI9341 SPI TFT | 1 | Display |
+| MCP23017-E/SP | 1 | GPIO expander |
+| MAX98357A I2S amplifier | 1 | Audio amplifier |
+| 8Ω 3W speaker | 1 | Audio output |
+| 3.3V piezo buzzer | 1 | Alerts |
+| MX/Cherry-MX switches | 12 | 3×4 keypad |
+| 1N4148 diode | 12 | Switch matrix |
+| 4.7kΩ resistor | 2 | I2C pull-ups |
+| 100nF capacitor | 3 | Decoupling |
+| 10µF capacitor | 1 | Audio power filtering |
+| 1×8 2.54mm header | 1 | TFT |
+| 1×7 2.54mm header | 1 | MAX98357A |
+| 1×2 2.54mm header | 1 | Power/expansion |
+| M3 heat-set inserts | 8 | Case mounting |
+| M3×8 screws | 4 | Case mounting |
+| M3×16 screws | 4 | Case mounting |
