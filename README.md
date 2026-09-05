@@ -28,5 +28,3 @@ for now i have used but i will learn code asap and then make it by myself
 | M3×16 screws | 4 | $0.50–1 | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=M3x16+socket+head+screws) |
 
 **Estimated parts cost: ~$22–40 USD**
-
-*Prices are approximate and may vary by seller, quantity, shipping, taxes and import fees.*
