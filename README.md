@@ -38,3 +38,6 @@ M3x8 screws x4
 M3x16 screws x4
 
 sd card module x1  //for next update
+
+
+total funding i need is ~ $30
