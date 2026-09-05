@@ -37,3 +37,16 @@ for now i have used but i will learn code asap and then make it by myself
 | M3×16 screws | 4 | $0.50–1 | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=M3x16+socket+head+screws) |
 
 **Estimated parts cost: ~$22–40 USD**
+
+
+#WORK
+IT IS A DIGITAL CKLOCK WHICH CAN BEEP FOR NOW BUT  in the future i m going to add a firmware which makes it use the speaker for  alarm and timer and more things when i lean c++ which is going to be soon 
+i just have to assembble the pcb and i can put screws on to the case done 
+
+also its going to use a 5v adaptor which i already have i just need a power cable to power on 
+
+that was all. 
+
+#THANK YOU 
+
+#CHAOX-TIME
