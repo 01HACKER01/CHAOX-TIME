@@ -8,6 +8,10 @@
 
 ![BLARE](Images/4.png)
 
+![BLARE](Images/5.png)
+
+![BLARE](Images/6.png)
+
 this is a digital alarm clock 
 
 This is my second hardware project 
